@@ -74,7 +74,7 @@ The system follows this pipeline:
 ### Run the experiment
 
 ```bash
-python main.py
+python learned_index_experiment.py
 
 Optional parameters
 
