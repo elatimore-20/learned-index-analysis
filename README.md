@@ -43,5 +43,6 @@ After extraction, the needed csv file is named ```baby_names.csv```
 3. Run the Experiment
 
 ```python learned_index_experiment.py```
+
 4. Results
 All generated plots and screenshots are then saved in results folder.
